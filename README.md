@@ -10,6 +10,6 @@
  
  Next, we used NLTK and Python to tokenize the text for each coin. With that, we looked at ngrams and frequency for each coin. The top 10 words for each coin was then used to generate word clouds to summerize the news for each coin. Please see below.
  
-![Screenshot](Screenshot 2020-12-15 000634.png)
+![NLP](Screenshot 2020-12-15 000634.png)
 
-![Screenshot](Screenshot 2020-12-15 000812.png)
+![NLP](Screenshot 2020-12-15 000812.png)
