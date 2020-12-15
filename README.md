@@ -12,4 +12,4 @@
  
 ![Screenshot 2020-12-15 000634](https://user-images.githubusercontent.com/71245033/102174230-f0a91380-3e6a-11eb-9d14-4a164a739fb7.png)
 
-![NLP/Screenshot 2020-12-15 000812.png](Screenshot 2020-12-15 000812.png)
+![Screenshot 2020-12-15 000812](https://user-images.githubusercontent.com/71245033/102174287-11716900-3e6b-11eb-85e7-ce2b391ec1ef.png)
